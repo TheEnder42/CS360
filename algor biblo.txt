@@ -1,0 +1,5 @@
+Tetris AI – The (Near) Perfect Bot. (2017, June 14). Retrieved from https://codemyroad.wordpress.com/2013/04/14/tetris-ai-the-near-perfect-player/
+
+I. (n.d.). IdreesInc/TetNet. Retrieved from https://github.com/IdreesInc/TetNet/blob/master/tetnet.js
+
+Kang, S. G., & Vo, V. (2017). AI Agents for Playing Tetris. Retrieved April 28, 2108, from https://web.stanford.edu/class/cs221/2017/restricted/p-final/vtvo/final.pdf
